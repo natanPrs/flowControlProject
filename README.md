@@ -44,7 +44,7 @@ Special thank you for all people that contributed for this project
   <tr>
     <td align="center">
       <a href="https://github.com/natanPrs">
-        <img src="./Utils/Imgs/natanBtm.jpg" width="100px;" alt="natanPrs Profile Picture"/><br>
+        <img src="./DesafioControleFluxo/Utils/Imgs/natanBtm.jpg" width="100px;" alt="natanPrs Profile Picture"/><br>
         <sub>
           <b>Natan Pires</b>
         </sub>
